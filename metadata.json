@@ -1,0 +1,7 @@
+{
+  "name": "Zukko Matematik - Matematika Ta'lim Platformasi",
+  "description": "O'quvchilar va ustozlar uchun mukammal matematika platformasi: sinflar bo'yicha interaktiv testlar, mantiqiy o'yinlar, formulalar ma'lumotnomasi, virtual doska va AI yordamchi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
